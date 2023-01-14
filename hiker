@@ -1,0 +1,19 @@
+#!/usr/bin/bash
+
+# By Kevin J. Figueroa : 2023-01-13
+# It is intended to validate functions in bash and teach the use of them through the process.
+
+mkdir -p $HOME/.scripts
+git clone https://github.com/kjfigueroa/kfzipper.git $HOME/.scripts/
+chmod +x $HOME/.scripts/*
+touch $HOME/.backup-PATH
+echo -e "\nEste es un backup de la valiable \$PATH tomado el: $(date +%Y-%m-%d)\n" > $HOME/.backup-PATH
+echo -e "$PATH\n" >> $HOME/.backup-PATH
+touch $HOME/.backup-bashrc
+echo -e "\nEste es un backup del archivo $HOME/.bashrc tomado el: $(date +%Y-%m-%d)\n" > $HOME/.backup-bashrc
+echo "$(cat $HOME/.bashrc >> $HOME/.backup-bashrc)"
+echo -e "\n\n#Adding a new system variable and saving in the personal bash environment" >> $HOME/.bashrc
+echo "export PATH=\$PATH:\$HOME/.scripts/" >> $HOME/.bashrc
+source .bashrc
+echo "$(export PATH=$PATH:$HOME/.scripts/)"
+exit 0
