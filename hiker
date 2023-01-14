@@ -4,7 +4,7 @@
 # It is intended to validate functions in bash and teach the use of them through the process.
 
 mkdir -p $HOME/.scripts
-git clone https://github.com/kjfigueroa/kfzipper.git $HOME/.scripts/
+git clone https://github.com/kjfigueroa/packer.git $HOME/.scripts/
 chmod +x $HOME/.scripts/*
 touch $HOME/.backup-PATH
 echo -e "\nEste es un backup de la valiable \$PATH tomado el: $(date +%Y-%m-%d)\n" > $HOME/.backup-PATH
