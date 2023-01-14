@@ -32,15 +32,15 @@ Have a machine (preferably derived from Debian, or RHEL).
 For greater ease, you can configure the local environment, following the steps below: 
 
 1. getting a copy of the hiker code, which will help you set up an environment quickly.
-   ```sh
-    curl "https://raw.githubusercontent.com/kjfigueroa/packer/hiker/hiker" -o hiker
+   ```ruby
+   curl "https://raw.githubusercontent.com/kjfigueroa/packer/hiker/hiker" -o hiker
    ```
 2. Edit the necessary permissions to run it.
    ```ruby
-    chmod +x hiker
+   chmod +x hiker
    ```
-   ```sh
-    ./hiker
+   ```ruby
+   ./hiker
    ```
 
 ### How to
