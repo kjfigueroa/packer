@@ -38,7 +38,7 @@ For greater ease, you can configure the local environment, following the steps b
     chmod +x hiker
    ```
    ```sh
-  ./hiker
+    ./hiker
    ```
 
 ### How to
