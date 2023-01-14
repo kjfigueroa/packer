@@ -10,8 +10,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-| <img src="https://lh3.googleusercontent.com/pw/AL9nZEVFlBVagDI6xrUzF-UpSB1fJ3WLWeUbK8xcZZM4CYq7e3qKY0VLEjtFsY22PHbxMIEOumaVtPp-rw9O4ryiepnOGcOk6YQRGcCk6CGIz5AQtqUPtamfdBc-0OQBW8RXY7PbTDpWEzOltOT-eNT8wHsV" style="width:100%"> | Description |
-| --- | --- |
+| <img src="https://lh3.googleusercontent.com/pw/AL9nZEVFlBVagDI6xrUzF-UpSB1fJ3WLWeUbK8xcZZM4CYq7e3qKY0VLEjtFsY22PHbxMIEOumaVtPp-rw9O4ryiepnOGcOk6YQRGcCk6CGIz5AQtqUPtamfdBc-0OQBW8RXY7PbTDpWEzOltOT-eNT8wHsV" style="width:100%"> |
+| --- |
 
 
 It is common in the SysAdmin trade, the fact of having to deal with a lot of registered information that accumulates on the server or instances, causing the high consumption of space and costs of the project due to the high usability of the computer in an unnecessary way.
