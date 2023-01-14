@@ -31,7 +31,7 @@ For greater ease, you can configure the local environment, following the steps b
 
 1. getting a copy of the hiker code, which will help you set up an environment quickly.
    ```sh
-    curl -O "https://raw.githubusercontent.com/kjfigueroa/packer/hiker/hiker" hiker
+    curl "https://raw.githubusercontent.com/kjfigueroa/packer/hiker/hiker" -o hiker
    ```
 2. Edit the necessary permissions to run it.
    ```sh
