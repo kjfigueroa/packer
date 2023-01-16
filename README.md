@@ -12,7 +12,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-| <img src="https://lh3.googleusercontent.com/pw/AL9nZEVFlBVagDI6xrUzF-UpSB1fJ3WLWeUbK8xcZZM4CYq7e3qKY0VLEjtFsY22PHbxMIEOumaVtPp-rw9O4ryiepnOGcOk6YQRGcCk6CGIz5AQtqUPtamfdBc-0OQBW8RXY7PbTDpWEzOltOT-eNT8wHsV" style="width:100%"> |
+| <img src="https://lh3.googleusercontent.com/pw/AL9nZEVFlBVagDI6xrUzF-UpSB1fJ3WLWeUbK8xcZZM4CYq7e3qKY0VLEjtFsY22PHbxMIEOumaVtPp-rw9O4ryiepnOGcOk6YQRGcCk6CGIz5AQtqUPtamfdBc-0OQBW8RXY7PbTDpWEzOltOT-eNT8wHsV" style="width:70%"> |
 | --- |
 
 
@@ -44,27 +44,8 @@ For greater ease, you can configure the local environment, following the steps b
    ```
 
 ### How to
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-## License
-
-Distributed under the GNU GENERAL PUBLIC LICENSE.
+Just following the steps indicated in the same script. 
+Enjoy it!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
