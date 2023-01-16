@@ -44,6 +44,8 @@ For greater ease, you can configure the local environment, following the steps b
    ```
 
 ### How to
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/McNOtbP7-Q4/0.jpg)](https://youtu.be/McNOtbP7-Q4)
+
 Just following the steps indicated in the same script. 
 Enjoy it!
 
