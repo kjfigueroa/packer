@@ -14,6 +14,6 @@ echo -e "\nEste es un backup del archivo $HOME/.bashrc tomado el: $(date +%Y-%m-
 echo "$(cat $HOME/.bashrc >> $HOME/.backup-bashrc)"
 echo -e "\n\n#Adding a new system variable and saving in the personal bash environment" >> $HOME/.bashrc
 echo "export PATH=\$PATH:\$HOME/.scripts/" >> $HOME/.bashrc
-source .bashrc
+source $HOME/.bashrc
 echo "$(export PATH=$PATH:$HOME/.scripts/)"
 exit 0
