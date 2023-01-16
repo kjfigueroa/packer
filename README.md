@@ -44,9 +44,10 @@ For greater ease, you can configure the local environment, following the steps b
    ```
 
 ### How to
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/McNOtbP7-Q4/0.jpg)](https://youtu.be/McNOtbP7-Q4)
 
-Just following the steps indicated in the same script. 
+https://user-images.githubusercontent.com/68950531/212739446-f2125175-906d-4c40-b590-fa1011186ab4.mp4
+
+Please following the steps indicated in the same script. 
 Enjoy it!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
